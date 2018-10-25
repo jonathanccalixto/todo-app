@@ -1,4 +1,4 @@
-# todo-app-backend
+# TODO-App-Backend
 
 This is a small backend application API implemented in nodejs.
 Will serve a frontend todo list application
